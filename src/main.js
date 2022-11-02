@@ -14,3 +14,7 @@ async function greet() {
 }
 
 window.greet = greet;
+
+// Countdown timer
+
+let timeLeft = 1500;
