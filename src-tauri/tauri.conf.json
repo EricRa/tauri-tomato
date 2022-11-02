@@ -58,7 +58,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "tauri-tomato",
+        "title": "Tomato Timer",
         "width": 800
       }
     ]
