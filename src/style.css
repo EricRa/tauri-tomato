@@ -4,8 +4,9 @@
   line-height: 24px;
   font-weight: 400;
 
-  color: #0f0f0f;
-  background-color: #f6f6f6;
+  color: #FFE5AD;
+  background-color: #D3494E;
+  /* third accent color to be used later: #13BBAF  */
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
