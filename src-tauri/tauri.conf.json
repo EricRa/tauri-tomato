@@ -56,10 +56,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
+        "height": 275,
         "resizable": true,
         "title": "Tomato Timer",
-        "width": 800
+        "width": 600
       }
     ]
   }
